@@ -9,7 +9,7 @@ import { Task } from './task';
 export class TaskComponent {
 
 
-  @Input() task: Task | null = null;
+  @Input() task     : Task | null = null;
   @Output() edit = new EventEmitter<Task>();
 
 }
