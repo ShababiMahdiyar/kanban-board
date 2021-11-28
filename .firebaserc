@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fs1prod-ec6c2": {
+      "hosting": {
+        "kanban-board": [
+          "fs1prod-ec6c2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fs1prod-ec6c2"
+  }
+}
